@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h3> live demo  [running tests]([azizdev-youtube-clone.netlify.app](https://azizdev-youtube-clone.netlify.app/)) </h3>
+<h3> live demo  <a href="https://azizdev-youtube-clone.netlify.app/">demo</a> </h3>
 
 ## Available Scripts
 
