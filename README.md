@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+live demo <a href="azizdev-youtube-clone.netlify.app">Demo</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
